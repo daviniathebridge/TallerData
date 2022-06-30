@@ -7,7 +7,7 @@
 
 # Firebase
 
-![img](../../../assets/core/clase18/firebase.png)
+![img](../assets/firebase.png)
 
 
 Firebase es un plataforma que ofrece servicios en la nube, adquirida por Google en 2014 y que proporciona herramientas para (entre otros): 
@@ -25,41 +25,41 @@ Si no hemos accedido nunca, nos pedirá un usuario/contraseña de Google.
 
 ## Crear un proyecto
 
-![img](../../../assets/core/clase18/crear_proyecto_firebase_1.png)
+![img](../assets/crear_proyecto_firebase_1.png)
 
-![img](../../../assets/core/clase18/crear_proyecto_firebase_2.png)
+![img](../assets/crear_proyecto_firebase_2.png)
 
-![img](../../../assets/core/clase18/crear_proyecto_firebase_3.png)
+![img](../assets/crear_proyecto_firebase_3.png)
 
-![img](../../../assets/core/clase18/crear_proyecto_firebase_4.png)
+![img](../assets/crear_proyecto_firebase_4.png)
 
-![img](../../../assets/core/clase18/crear_proyecto_firebase_5.png)
+![img](../assets/crear_proyecto_firebase_5.png)
 
 
 ## Configuración inicial
 
-![img](../../../assets/core/clase18/configuracion_firebase_1.png)
+![img](../assets/configuracion_firebase_1.png)
 
-![img](../../../assets/core/clase18/configuracion_firebase_2.png)
+![img](../assets/configuracion_firebase_2.png)
 
-![img](../../../assets/core/clase18/configuracion_firebase_3.png)
+![img](../assets/configuracion_firebase_3.png)
 
 
 ## Crear una BD
 
-![img](../../../assets/core/clase18/crear_bd_firebase_1.png)
+![img](../assets/crear_bd_firebase_1.png)
 
-![img](../../../assets/core/clase18/crear_bd_firebase_2.png)
+![img](../assets/crear_bd_firebase_2.png)
 
-![img](../../../assets/core/clase18/crear_bd_firebase_3.png)
+![img](../assets/crear_bd_firebase_3.png)
 
 ## Crear una colección
 
-![img](../../../assets/core/clase18/crear_coleccion_firestore_1.png)
+![img](../assets/crear_coleccion_firestore_1.png)
 
-![img](../../../assets/core/clase18/crear_coleccion_firestore_2.png)
+![img](../assets/crear_coleccion_firestore_2.png)
 
-![img](../../../assets/core/clase18/crear_coleccion_firestore_3.png)
+![img](../assets/crear_coleccion_firestore_3.png)
 
 ## Documentación 
 

@@ -9,7 +9,7 @@
 
 ## MongoDB
 
-![img](../../../assets/core/clase18/mongo.png)
+![img](../assets/mongo.png)
 
 MongoDB es una BD NoSQL que se basa en colecciones (conceptualmente lo más parecido a Tablas en BD Relacionales) y documentos (conceptualmente lo más parecido a registros en BD Relacionales) y el formato de la información es JSON. 
 
@@ -23,46 +23,46 @@ Se trata de una instalación sencilla en Windows, puedes encontrar el enlace aqu
 ### Conexión
 
 En la instalación se nos crea una conexión por defecto, sólo debemos pulsar en "Connect".
-![img](../../../assets/core/clase18/Conexion_Mongo.png)
+![img](../assets/Conexion_Mongo.png)
 
 ### Crear una BD
 
 Para crear una BD nueva, debemos indicar su nombre y al menos el nombre de una colección que nos insertará vacía.
 
-![img](../../../assets/core/clase18/Crear_DB.png)
+![img](../assets/Crear_DB.png)
 
 ### BDs creadas
 
 Una vez hecho podremos ver nuestras BD, tanto las que contienen metadatos, como la que hemos creado.
 
-![img](../../../assets/core/clase18/DBS_Creadas.png)
+![img](../assets/DBS_Creadas.png)
 
 ### Ver la colección Personas dentro de la BD Prueba
 
 Si accedemos a Prueba, nuestra BD, podremos ver las colecciones que tiene, en este caso hemos creado una llamada "Personas"
 
-![img](../../../assets/core/clase18/Prueba_Personas.png)
+![img](../assets/Prueba_Personas.png)
 
 ### Añadir datos a una colección
 
 Una vez creada la colección, podremos añadirle datos, bien desde un JSON en un fichero o a mano.
 
-![img](../../../assets/core/clase18/Add_Data_1.png)
+![img](../assets/Add_Data_1.png)
 
-![img](../../../assets/core/clase18/Add_Data_2.png)
+![img](../assets/Add_Data_2.png)
 
-![img](../../../assets/core/clase18/Add_Data_3.png)
+![img](../assets/Add_Data_3.png)
 
 Y aquí podemos ver el dato insertado: 
 
-![img](../../../assets/core/clase18/Insertado.png)
+![img](../assets/Insertado.png)
 
 ### Búsquedas simples aplicando filtros por medio de la Interfaz gráfica
 
 Para aplicar filtros usamos también el formato JSON.
 
 **Ejemplo:**
-![img](../../../assets/core/clase18/Busqueda.png)
+![img](../assets/Busqueda.png)
 
 
 ## Ejercicios
