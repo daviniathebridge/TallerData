@@ -39,6 +39,14 @@ Durante nuestro Bootcamp vemos:
 
 - Comunicación y colaboración para solucionar los problemas que surjan.
 
+- Si la aplicación hace predicciones por ejemplo, necesitamos que nos devuelvan un JSON preferiblemente (diccionario en Python), ya que es un formato nativo de Javascript el lenguaje con el que trabajamos y disponemos de muchas herramientas para trabajar con ellos y que dicho JSON esté disponible para hacer peticiones en una URL.
+
+## ¿Con qué NO trabajamos en Full Stack?
+
+- Con python, aunque se puede intentar integrar un script en nuestra app.
+
+- Con csv, excel, access o similar
+
 ## Ejemplo scripts de acceso e interacción con BD
 
 ### MySQL sin sequelize
@@ -279,4 +287,3 @@ Durante nuestro Bootcamp vemos:
 
 
 ```
-
