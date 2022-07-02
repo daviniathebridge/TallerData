@@ -5,7 +5,7 @@
 
 ### HTML, CSS,  JS, ES6, Node.js, Frontend, Backend, Express, React, MERN, testing, DevOps
 
-# ¿Qué papel tiene desarrollo en el deafío y en la empresa?
+# ¿Qué papel tiene desarrollo en el desafío y en la empresa?
 
 Durante nuestro Bootcamp vemos: 
 
