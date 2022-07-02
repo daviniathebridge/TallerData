@@ -1,5 +1,6 @@
-# TallerData
-Firebase, MongoDB y API Heroku
+# Taller Data 04/07/20222
+
+Papel de Full Stack, Firebase, MongoDB y API Heroku
 
 ## Contenidos
 
