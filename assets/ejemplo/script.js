@@ -1,3 +1,6 @@
 fetch('https://api.github.com/users/daviniathebridge')
     .then(res => res.json())
-    .then(json => console.log(json));
+    .then(json => {
+        console.log(json);
+        alert(json.created_at);
+    });
