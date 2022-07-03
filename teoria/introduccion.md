@@ -32,7 +32,7 @@ No, pero somos capaces de implementar acceso a los datos y lógica usándolos.
 4. Disponemos de conocimientos básicos de administración de usuarios y permisos.
 5. Integración de BD en nuestras aplicaciones (con y sin sequelize).
 
-- NoSQL (Mongo y Firebase/Firestore):
+- NoSQL (MongoDB y Firebase/Firestore):
 
 1. Vemos nociones de diseño de BD.
 2. Aprendemos a crear las BD con y sin entorno gráfico.
