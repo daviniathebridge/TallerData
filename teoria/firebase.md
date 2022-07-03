@@ -66,14 +66,36 @@ Si no hemos accedido nunca, nos pedirá un usuario/contraseña de Google.
 [DOCUMENTACIÓN_FIREBASE](https://firebase.google.com/docs)
 
 
-### Ejercicios 
-1. Crea en Firebase Firestore una BD que almace la información del ejercicio 3 de JSON. 
+### Ejercicio
 
-- Enunciado del ejercicio: 
+- A partir del siguiente JSON: 
 
-A partir de la siguiente información, diseña y elabora un JSON que la contenga y permita acceder de manera lo más sencilla posible, a precio y calorías de cada desayuno.
+```javascript 
 
-![img](../../../assets/core/clase7/ejercicio.png)
+ [
+    {
+      "nombre": "Francisco Ramirez",
+      "edad": 29,
+      "puesto": "Contable",
+      "Emails": [
+        "francisco@gmail.com",
+        "francisco@hotmail.es",
+        "francisco@thebridgeschool.es"
+      ]
+    },
+    {
+        "nombre": "Isabel Pérez",
+        "edad": 31,
+        "puesto": "Profesora",
+        "Emails": [
+          "isabel@gmail.com",
+          "isabel@hotmail.es",
+          "isabel@thebridgeschool.es"
+        ]
+      }
+  ]
 
+```
 
+Crea una colección en Firestore de Firebase e inserta la información del mismo.
 
