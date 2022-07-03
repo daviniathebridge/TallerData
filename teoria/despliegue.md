@@ -19,7 +19,7 @@ Los pasos para poder desplegar una app en Heroku son los siguentes:
 
 2. Descarga e instala git (control de versiones más usado en la actualidad y usado en concreto por Heroku)
 
-[GIT](https://git-scm.com/downloads)
+[ENLACE_DESCARGA_GIT](https://git-scm.com/downloads)
 
 A partir de aquí te dejo la información que nos ha facilitado tu Lead, para que dispongas de ella: 
 
