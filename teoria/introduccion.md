@@ -56,7 +56,7 @@ No, pero somos capaces de implementar acceso a los datos y lógica usándolos.
 
 - Con csv, excel, access o similar.
 
-### ¿En qué podemos colaborar pero no realizar nosotros?
+## ¿En qué podemos colaborar pero no realizar nosotros?
 
 En la obtención de datos, ayudando a localizar fuentes o a guiar en el scraping, pero no realizarlo nosotros porque al tener que desarrollar un PMV en tan poco tiempo, estamos sobrecargados.
 
