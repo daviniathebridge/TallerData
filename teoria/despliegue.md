@@ -112,6 +112,8 @@ Pruébala en un navegador. ¡Ya tienes listo tu clasificador en internet!
 
 ## Código para acceder al contenido de una API que devuelve JSON
 
+- **HTML:**
+
 ```html
 
 <!DOCTYPE html>
@@ -129,6 +131,8 @@ Pruébala en un navegador. ¡Ya tienes listo tu clasificador en internet!
 </html>
 
 ```
+
+- **JavaScript:**
 
 ```javascript
   fetch('https://api.github.com/users/daviniathebridge')
