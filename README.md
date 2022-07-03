@@ -9,4 +9,4 @@ Papel de Full Stack, Firebase, MongoDB y API Heroku
 | [Introducción](./teoria/introduccion.md) | Introducción a Full Stack  |
 | [MongoDB](./teoria/mongodb.md) | Introducción a MongoDB  |
 | [Firebase](./teoria/firebase.md) | Introducción a Firebase  |
-| [Despliegue](./teoria/firebase.md) | Heroku y API JSON |
+| [Despliegue](./teoria/despliegue.md) | Heroku y API JSON |
