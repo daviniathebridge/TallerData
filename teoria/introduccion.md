@@ -7,28 +7,37 @@
 
 # ¿Qué papel tiene desarrollo en el desafío y en la empresa?
 
-Durante nuestro Bootcamp vemos: 
+## Durante nuestro Bootcamp vemos: 
 
-1. Frontend: HTML, CSS, Javascript y React.js
+1. Frontend: HTML, CSS, JavaScript y React.js
 2. Backend: Node.js, Express, MySQL/PostgreSQL, Fireabse y MongoDB
 3. En el camino: Muchas librerías y herramientas que permiten hacer aplicaciones de principio a fin.
+4. En desarrollo de pruebas y scraping trabajamos con Selenium
 
-¿Qué sabemos de Bases de Datos?
+## ¿Qué es Full Stack?
+
+Ser capaces de desarrollar aplicaciones de principio a fin: Desde UI, hasta todo el servidor pasando por los datos.
+
+## ¿Significa esto que somos expertos en datos?
+
+No, pero somos capaces de implementar acceso a los datos y lógica usándolos.
+
+## ¿Qué sabemos de Bases de Datos?
 
 - Relacionales: 
 
 1. Vemos nociones de diseño de BD.
-2. Aprendemos a crear las BD sin entorno gráfico
-3. Disponemos de conocimientos básicos acerca de consultas, subconsultas y JOINS
-4. Disponemos de conocimientos básicos de administración de usuarios y permisos
-5. Integración de BD en nuestras aplicaciones (con y sin sequelize)
+2. Aprendemos a crear las BD sin entorno gráfico.
+3. Disponemos de conocimientos básicos acerca de consultas, subconsultas y JOINS.
+4. Disponemos de conocimientos básicos de administración de usuarios y permisos.
+5. Integración de BD en nuestras aplicaciones (con y sin sequelize).
 
-- No SQL (Mongo y Firebase/Firestore):
+- NoSQL (Mongo y Firebase/Firestore):
 
 1. Vemos nociones de diseño de BD.
-2. Aprendemos a crear las BD con y sin entorno gráfico
-3. Aprendemos a aplicar filtros 
-4. Integración de BD en nuestras aplicaciones (con y sin mongoose)
+2. Aprendemos a crear las BD con y sin entorno gráfico.
+3. Aprendemos a aplicar filtros.
+4. Integración de BD en nuestras aplicaciones (con y sin mongoose).
 
 
 ## ¿Qué necesitamos de Data?
@@ -39,13 +48,17 @@ Durante nuestro Bootcamp vemos:
 
 - Comunicación y colaboración para solucionar los problemas que surjan.
 
-- Si la aplicación hace predicciones por ejemplo, necesitamos que nos devuelvan un JSON preferiblemente (diccionario en Python), ya que es un formato nativo de Javascript el lenguaje con el que trabajamos y disponemos de muchas herramientas para trabajar con ellos y que dicho JSON esté disponible para hacer peticiones en una URL.
+- Si la aplicación hace predicciones por ejemplo, necesitamos que nos devuelvan un JSON preferiblemente (diccionario en Python), ya que es un formato nativo de JavaScript, el lenguaje con el que trabajamos y disponemos de muchas herramientas para trabajar con ellos y que dicho JSON esté disponible para hacer peticiones en una URL.
 
 ## ¿Con qué NO trabajamos en Full Stack?
 
-- Con python, aunque se puede intentar integrar un script en nuestra app.
+- Con python, aunque se puede intentar integrar un script en nuestra app, pero en el desafío no tenemos el tiempo y la experiencia suficiente para hacer esto con garantías.
 
-- Con csv, excel, access o similar
+- Con csv, excel, access o similar.
+
+### ¿En qué podemos colaborar pero no realizar nosotros?
+
+En la obtención de datos, ayudando a localizar fuentes o a guiar en el scraping, pero no realizarlo nosotros porque al tener que desarrollar un PMV en tan poco tiempo, estamos sobrecargados.
 
 ## Ejemplo scripts de acceso e interacción con BD
 
