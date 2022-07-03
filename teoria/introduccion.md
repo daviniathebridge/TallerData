@@ -9,14 +9,14 @@
 
 ## Durante nuestro Bootcamp vemos: 
 
-1. Frontend: HTML, CSS, JavaScript y React.js
-2. Backend: Node.js, Express, MySQL/PostgreSQL, Fireabse y MongoDB
-3. En el camino: Muchas librerías y herramientas que permiten hacer aplicaciones de principio a fin.
-4. En desarrollo de pruebas y scraping trabajamos con Selenium
+1. **Frontend:** HTML, CSS, JavaScript y React.js
+2. **Backend:** Node.js, Express, MySQL/PostgreSQL, Fireabse y MongoDB
+3. **En el camino:** Muchas librerías y herramientas que permiten hacer aplicaciones de principio a fin.
+4. **En desarrollo de pruebas y scraping:** trabajamos con Selenium
 
 ## ¿Qué es Full Stack?
 
-Ser capaces de desarrollar aplicaciones de principio a fin: Desde UI, hasta todo el servidor pasando por los datos.
+Ser capaces de desarrollar aplicaciones de principio a fin: Desde la UI, hasta todo el servidor, pasando por los datos y su funcionamiento.
 
 ## ¿Significa esto que somos expertos en datos?
 
