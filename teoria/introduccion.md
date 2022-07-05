@@ -10,7 +10,7 @@
 ## Durante nuestro Bootcamp vemos: 
 
 1. **Frontend:** HTML, CSS, JavaScript y React.js
-2. **Backend:** Node.js, Express, MySQL/PostgreSQL, Fireabse y MongoDB
+2. **Backend:** Node.js, Express, MySQL/PostgreSQL, Firebase y MongoDB
 3. **En el camino:** Muchas librerías y herramientas que permiten hacer aplicaciones de principio a fin.
 4. **En desarrollo de pruebas y scraping:** trabajamos con Selenium
 
